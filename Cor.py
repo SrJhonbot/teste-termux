@@ -1,4 +1,4 @@
-Import colorama
+import colorama
 
 
 Text = input ("Texto:")
