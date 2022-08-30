@@ -3,4 +3,4 @@ import colorama
 
 Text = input ("Texto:")
 
-prit(Fore.RED+ f""" {Text} """)
+print(Fore.RED+ f""" {Text} """)
